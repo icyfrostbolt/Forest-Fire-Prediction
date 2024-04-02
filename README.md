@@ -1,0 +1,1 @@
+# Predicting Forest Fires in Montesinho National Park (Portugal)
